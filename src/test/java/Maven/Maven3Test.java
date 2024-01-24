@@ -21,6 +21,8 @@ public class Maven3Test {
 	@Test(groups = "regression")
 	public void sample9Test() {
 		System.out.println("=== TEST SCRIPT 9===");
+		
+		
 
 }
 }
