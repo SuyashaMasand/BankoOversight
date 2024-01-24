@@ -8,6 +8,8 @@ public class Maven1Test {
 	public void sample1Test() {
 		System.out.println("===TEST SCRIPT 1====");
 		
+		
+		
 	}
 	
 	@Test(groups = "regression")
