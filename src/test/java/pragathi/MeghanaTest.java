@@ -7,4 +7,8 @@ public class MeghanaTest {
 	public void Demo() {
 		System.out.println("--Demo test executing--");
 	}
+	@Test
+	public void Demo2() {
+		System.out.println("--Demo executing--");
+	}
 }
