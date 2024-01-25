@@ -11,4 +11,8 @@ public class MeghanaTest {
 	public void Demo2() {
 		System.out.println("--Demo executing--");
 	}
+	@Test
+	public void MergeTest() {
+		System.out.println("--Demo executing--");
+	}
 }
