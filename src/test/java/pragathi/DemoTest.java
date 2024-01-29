@@ -1,13 +1,18 @@
 package pragathi;
 
+import org.apache.poi.poifs.crypt.temp.AesZipFileZipEntrySource;
 import org.testng.annotations.Test;
 
 public class DemoTest {
 	@Test
 	public void test() {
-		System.out.println("test1");
-		System.out.println("added changes");
-		System.out.println("Check changes");
+		
+		
+		String BROWSER = System.getProperty("browser");
+		String ENV = System.getProperty("env");
+		
+		System.out.println(BROWSER);
+		System.out.println(ENV);
 		
 		
 	}
