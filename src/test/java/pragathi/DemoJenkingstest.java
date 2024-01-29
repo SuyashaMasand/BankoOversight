@@ -2,7 +2,7 @@ package pragathi;
 
 import org.testng.annotations.Test;
 
-public class DemoJenkingsTest {
+public class DemoJenkingstest {
 	
 	@Test
 	public void jenkingstesting() {
